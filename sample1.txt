@@ -2,3 +2,6 @@ hai Good morning
 how are you?
 
 this is a second day
+
+
+This is the clone folder
